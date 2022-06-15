@@ -1,0 +1,5 @@
+Android uygulaması "Android Studio" idesi ile hazırlanmıştır. Api seviyesi 26 dır.
+
+Sunucu "Eclipse" idesinde hazırlanmıştır. Sunucuyu ayağa kaldırabilmek için ideye Tomcat v9 eklenmelidir.
+
+Framework Intelij idea ile hazırlanmıştır.

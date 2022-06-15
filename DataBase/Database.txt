@@ -1,0 +1,13 @@
+Veritabanı bizim tarafımızdan mysql kullanılarak oluşturulmuştur. Dışarıdan herhangi bir veri kümesi kullanılmamıştır. Kodlar içerisinde hardcoded olarak veritabanı bilgileri verilmiştir.
+Veritabanı adı "sensordb" dir. İçerisinde iki adet tablo bulunmalıdır. İlk tablonun adı "tbl_header" dır. İçerisinde üç adet alan bulunmaktadır.
+Bu alanlar sırasıyla şu şekildedir:
+- id : otomatik artan tam sayı, birincil anahtar
+- deviceID : Boş bırakılamaz metinsel ifade
+- dateTime : Boş bırakılamaz DateTime
+
+İkinci tablonun adı "tbl_sensorvalues" dur. Bu tablonun alanları sırasıyla:
+- headerID : Tam sayı
+- sensorName : Metinsel ifade
+- sensorValue : Metinsel ifade
+
+şeklindedir. Detaylı bilgi için raporumuzu inceleyebilir ya da ferkan@yildiz.edu.tr adresine mail atabilirsiniz.
